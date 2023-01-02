@@ -81,4 +81,15 @@ Escriba un programa que pida la fecha según el formato 09/03/2022 ylo
 retorne según el formato 2222/03/09
 
 Ejercicio 17
-Crea una calculadora en python(pendiente)
+Crea una calculadora en python y Tkinter para realizar operaciones 
+basicas
+
+Ejercicio 18
+Crea una funcion que reciba una URL y esta devuelva la refencia y 
+cita en formato APPA septima edicion
+
+Ejercicio 19 
+Cree un generador de contraseñas
+
+Ejercicio 20 
+Usando el modulo PyGame cree el juego del "Snake"
