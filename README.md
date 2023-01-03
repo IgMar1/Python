@@ -1,6 +1,6 @@
 # Python
 Ejercicios basicos en python, los cuales se guardan dentro de una funcion
-Exceente inicio al mundo de Python 
+Excelente inicio al mundo de Python 
 
 
 
